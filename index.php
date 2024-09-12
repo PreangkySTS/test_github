@@ -12,6 +12,8 @@
 
 <!-- ini ridzyk -->
 
+<!-- malas mikir -->
+
   <body>
 
     <div class="container" style="margin-top: 80px">

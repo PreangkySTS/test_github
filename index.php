@@ -8,13 +8,7 @@
     <title>Data Siswa</title>
   </head>
 
-<!-- saya makan nasi -->
-
-<!-- ini ridzyk -->
-
-<!-- malas mikir -->
-
-<!-- komen wae -->
+  <!-- ai si rizik kuanon -->
 
   <body>
 
